@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\desafio-de-projeto-deploy-azure.props" />
+</Project>
